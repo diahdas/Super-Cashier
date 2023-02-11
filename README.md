@@ -13,7 +13,8 @@ A big supermarket in a city in Indonesia want to improve their business process.
 - Check total price after discount
 
 ### Flowchart
-![image](.\img\flowchart.png)
+<img src="img/flowchart.png" width="500"/>
+
 From the main menu, customer can create new transaction to start add item or exit to close the program. From transaction, customer can add item, update item's name, update item's quantity, update item's price, delete an item, delete all item, check whether the inputed value is correct or not, and check total price. After the customer check the total price, there will be options to pay the transaction now, add another item, or exit if they want to cancel the order. In the end after they choose pay now, user will be asked whether they want to create another transaction or not.   
 
 ### Functions
@@ -38,15 +39,15 @@ total_price():
     Calculate subtotal, discount, and total amount to be paid
 
 ### Test Case
-- Test Case 1
-Add Item
-![image](.\img\test case 1.png)
-- Test Case 2
-Delete Item
-![image](.\img\test case 2.png)
-- Test Case 3
-Reset Transaction
-![image](.\img\test case 3.png)
-- Test Case 4
-Check Total Price
-![image](.\img\test case 4.png)
+- Test Case 1 : Add Item
+
+    <img src="img/test%20case%201.PNG" width="500"/>
+- Test Case 2 : Delete Item
+
+    <img src="img/test%20case%202.PNG" width="500"/>
+- Test Case 3 : Reset Transaction
+
+    <img src="img/test%20case%203.PNG" width="500"/>
+- Test Case 4 : Check Total Price
+
+    <img src="img/test%20case%204.PNG" width="500"/>
